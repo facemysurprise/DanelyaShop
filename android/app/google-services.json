@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256666824774",
+    "project_id": "ndpro-3e160",
+    "storage_bucket": "ndpro-3e160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256666824774:android:a331d303ac3d00547a5a47",
+        "android_client_info": {
+          "package_name": "com.example.flutter_nd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu0IogZyY7PcQsCwiOL8lcKvf99yLesvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

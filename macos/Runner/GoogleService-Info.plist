@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBuaLYYiBYZAZsQtXGli-EXCN1dlfqgdbQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>256666824774</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterNd.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>ndpro-3e160</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ndpro-3e160.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:256666824774:ios:d080ade6e3ffb3fb7a5a47</string>
+</dict>
+</plist>
